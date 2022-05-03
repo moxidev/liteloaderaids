@@ -1,20 +1,26 @@
 # LiteLoaderAids README
+
 > ### Devloping...
 
 This is an extension for LiteLoaderScript, a redevelopment of LiteLoaderHelper.
+
 > Just for Visual Studio Code.
 
 ## TodoList
-- [ ] Embedded documentation
+
+- [x] Embedded documentation
+- [ ] More user-friendly initial configuration
+- [ ] The debugger
+- [ ] Automatic download, update and complete the library
+
 ## Features
 
 Supports script code completion, hinting and checking, and subsequent runtime debugging.
 
-
-
 ## Requirements
 
 The following dependencies are fully optional, please select them for the scripting language you are using.
+
 > Remember that only the following extensions can be selected under the same type of code extension
 
 ## Extension Settings
@@ -25,8 +31,8 @@ For example:
 
 This extension contributes the following settings:
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+- `myExtension.enable`: enable/disable this extension
+- `myExtension.thing`: set to `blah` to do something
 
 ## Known Issues
 
@@ -36,10 +42,9 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 Please see [CHANGELOG.md](CHANGELOG.md)
 
------------------------------------------------------------------------------------------------------------
+---
 
 ### For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
